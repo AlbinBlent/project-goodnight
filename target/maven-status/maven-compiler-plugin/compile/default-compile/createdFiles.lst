@@ -1,1 +1,6 @@
+com/albinsShop/controllers/ProductController.class
+com/albinsShop/models/Product.class
+com/albinsShop/repository/ProductRepository.class
+com/albinsShop/models/Greeting.class
 com/albinsShop/app/Application.class
+com/albinsShop/controllers/GreetingController.class

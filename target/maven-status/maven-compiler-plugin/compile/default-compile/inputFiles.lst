@@ -1,1 +1,6 @@
 /Users/albinblent/dev/trash/AlbinsShop/src/main/java/com/albinsShop/app/Application.java
+/Users/albinblent/dev/trash/AlbinsShop/src/main/java/com/albinsShop/models/Product.java
+/Users/albinblent/dev/trash/AlbinsShop/src/main/java/com/albinsShop/controllers/GreetingController.java
+/Users/albinblent/dev/trash/AlbinsShop/src/main/java/com/albinsShop/repository/ProductRepository.java
+/Users/albinblent/dev/trash/AlbinsShop/src/main/java/com/albinsShop/models/Greeting.java
+/Users/albinblent/dev/trash/AlbinsShop/src/main/java/com/albinsShop/controllers/ProductController.java
