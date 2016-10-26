@@ -14,6 +14,6 @@
     </citrus:namespace-context>
 
     <citrus-http:client id="albinsShopClient"
-                        request-url="http://localhost:8080"/>
+                        request-url="http://localhost:8090"/>
 
 </beans>

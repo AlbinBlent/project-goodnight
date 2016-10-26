@@ -244,6 +244,9 @@
                 </goals>
                 <configuration>
                   <!--daemon>true</daemon-->
+                  <arguments>
+                    <argument>--server.port=8090</argument>
+                  </arguments>
                 </configuration>
               </execution>
               <execution>
