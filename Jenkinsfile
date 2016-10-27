@@ -1,5 +1,4 @@
 node {
-    notify('Started')
     try {
         stage('checkout') {
             git 'https://github.com/AlbinBlent/project-goodnight.git'
@@ -13,7 +12,6 @@ node {
         }
 
     } catch (err) {
-        notify("Error: ${err}")
         currentBuild.result = 'FAILURE'
     }
 

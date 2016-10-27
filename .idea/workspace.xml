@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f32e5d71-5fa1-45eb-b897-f0d1ccb1e353" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/albinsshop-0.1.0.jar" afterPath="$PROJECT_DIR$/target/albinsshop-0.1.0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/albinsshop-0.1.0.jar.original" afterPath="$PROJECT_DIR$/target/albinsshop-0.1.0.jar.original" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.albinsShop.app.AppTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.albinsShop.app.AppTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/com.albinsShop.app.AppTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.albinsShop.app.AppTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jenkinsfile" afterPath="$PROJECT_DIR$/Jenkinsfile" />
     </list>
     <ignored path="AlbinsShop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,8 +48,8 @@
       <file leaf-file-name="Jenkinsfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Jenkinsfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+            <state relative-caret-position="195">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -691,12 +687,12 @@
       <updated>1476976214775</updated>
       <workItem from="1476976218531" duration="1604000" />
       <workItem from="1477054871899" duration="5100000" />
-      <workItem from="1477467062856" duration="10433000" />
+      <workItem from="1477467062856" duration="10939000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17137000" />
+    <option name="totallyTimeSpent" value="17643000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -999,8 +995,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Jenkinsfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+        <state relative-caret-position="195">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
           <folding />
         </state>
       </provider>
